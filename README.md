@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BaByHaRdEn
+- 👋 Hi, I’m Manger George
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend Web development and Web3 Technology
 - 💞️ I’m looking to collaborate on building web2 and Web3 web applications
